@@ -11,17 +11,13 @@
     @include('home.header')
     <!-- end header section -->
     <!-- slider section -->
-
-    
-
+    @include('home.slider')
     <!-- end slider section -->
   </div>
   <!-- end hero area -->
-
+ 
   <!-- shop section -->
-
-
-
+    @include('home.product')
   <!-- end shop section -->
 
 
