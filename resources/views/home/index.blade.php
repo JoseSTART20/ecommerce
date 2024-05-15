@@ -12,7 +12,16 @@
     <!-- end header section -->
     <!-- slider section -->
 
-    @include('home.slider')
+    
+
+    <!-- end slider section -->
+  </div>
+  <!-- end hero area -->
+
+  <!-- shop section -->
+
+
+
   <!-- end shop section -->
 
 
